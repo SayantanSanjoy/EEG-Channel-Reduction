@@ -266,10 +266,3 @@ This work was completed as part of the **Summer Research Internship Programme (S
 
 ---
 
-# Author
-
-**Sayantan Sengupta**
-
-B.Tech Computer Science Engineering
-
-VIT Chennai
