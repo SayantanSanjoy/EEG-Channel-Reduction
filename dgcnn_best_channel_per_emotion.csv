@@ -1,0 +1,5 @@
+Emotion,Channels,Accuracy,Balanced Accuracy,Precision,Recall,F1-Score,ROC-AUC,Window Accuracy
+Arousal,32,0.5286,0.4833,0.5546,0.8354,0.6667,0.4774,0.5286
+Dominance,32,0.5143,0.5097,0.6301,0.5287,0.575,0.4827,0.4986
+Liking,16,0.5786,0.4969,0.6339,0.7978,0.7065,0.5377,0.5563
+Valence,32,0.5536,0.5372,0.552,0.8243,0.6612,0.5309,0.5202
